@@ -28,7 +28,7 @@ export default function Home() {
             My Experience
           </h3>
           <p>
-            Since 2007 – Working for web hosting and web marketing agencies.
+            Since 2020 – Working for web hosting and web marketing agencies.
           </p>
         </div>
 
@@ -36,7 +36,7 @@ export default function Home() {
           <h3 className="text-lg font-semibold text-blue-800 mb-1">
             My Studies
           </h3>
-          <p>BA (Hons) in Economy and Management, France & Scotland.</p>
+          <p>Student of Klabat University</p>
         </div>
 
         <div id="books">
@@ -44,6 +44,21 @@ export default function Home() {
             Books I Recommend
           </h3>
           <p>Books that improved my knowledge about Web, SEO, and UX.</p>
+        </div>
+
+        <div id="hobby">
+          <h3 className="text-lg font-semibold text-blue-800 mb-1">My Hobby</h3>
+          <p>I like to sing, iam part of the Unklab FEB Choir</p>
+        </div>
+
+        <div id="Movie">
+          <h3 className="text-lg font-semibold text-blue-800 mb-1">
+            Movies&Series I Recommend{" "}
+          </h3>
+          <p>
+            The Walking Dead Series, 500 days of summer Movie, High&Low Movie
+            Series, ....
+          </p>
         </div>
       </section>
 
